@@ -1,5 +1,4 @@
-Author: Rui Han
-Email: iurnah@gmail.com
+Author: Rui Han Email: iurnah@gmail.com
 ================================
 
 This repo is for my reseach paper reading notes. I found it is better to understand the
