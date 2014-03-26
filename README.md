@@ -18,8 +18,8 @@ the parsed format looking like this:
 
 
 ```
-*Process Page-in*       *String*
-*Dump Address*
+Process Page-in       String
+Dump Address
 000DF054 000DF054         memory examination challenge
 000DF080 000DF080         dfrws2005.ini
 000DF09C 000DF09C         DRIVERNAME=DFRWSDRV2$
@@ -67,6 +67,8 @@ the parsed format looking like this:
 000DF864 000DF864         FRWSDRV2005
 000DF968 000DF968         DFRWSDRV2005
 000DF984 000DF984
+.....
+
 ```
 
 Reference
